@@ -4,7 +4,11 @@
 This project is a YouTube-inspired API that allows users to manage profiles, videos, comments, playlists, and subscriptions. It simulates a platform where users can upload videos, comment on them, create playlists, and subscribe to channels. This API is built using MongoDB and provides all essential operations for handling user interactions.
 
 For detailed API documentation, please refer to the Postman collection:  
+
 [API Postman Collection Link](https://documenter.getpostman.com/view/39189278/2sAYQUptZd)
+
+[Google Drive Link](https://drive.google.com/file/d/15IYeOTHwBR_Rxm7lKVMBANWnM5_e3pru/view?usp=sharing)
+
 
 ## Table of Contents
 - User Management
